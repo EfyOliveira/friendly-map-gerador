@@ -8,4 +8,4 @@
 
 • Para definir o local você precisa editar na parte comentada `28.7041, 77.1025, 13`
 
-• Para definir local onde o arquivo `html` será salvo comente a parte escrita `path`
+• Para definir local onde o arquivo `html` será salvo comente a parte escrita `/local-do-arquivo/map.html`
